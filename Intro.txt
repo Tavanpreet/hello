@@ -1,0 +1,9 @@
+1. download git and create account on github
+2. git clone https://github.com/Tavanpreet/hello.git
+3. create file in th folder
+4. git status
+5. git add "Intro.txt"
+6. git commit -m "comment" \\Intro to git
+7. git remote add origin https://github.com/tavanpreet/hello.git
+8. git remote -v
+9. git push
